@@ -21,5 +21,4 @@ Data Analysis: Pandas, NumPy
 Data Visualization: Matplotlib
 
 Visualizations
-
 The project includes various visualizations such as bar charts and scatter plots that illustrate the distribution of job ratings and salary ranges across different locations.
